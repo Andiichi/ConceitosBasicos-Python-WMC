@@ -68,6 +68,8 @@ Cada módulo é composto por exercícios práticos que ajudam a fixar os conceit
 
 │   ├── exercicio09.py
 
+│   ├── exercicio10.py
+
 
 ### Módulo 2 - Tomada de Decisão e Estruturas de Repetição
 
