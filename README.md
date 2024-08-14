@@ -39,10 +39,10 @@ O curso é dividido em cinco módulos principais, cada um cobrindo diferentes as
   - Classes abstratas e a biblioteca ABC
   - Tipagem pato (Duck typing)
   - Erros e exceções
-  - Debug no VS Code - lindando com Erros e excecões
+  - Debug no VS Code - lindando com Erros e exceções
     
 
-## 🗂 Estrutura das pastas dos modulos
+## 🗂 Estrutura das pastas dos módulos
 
 Cada módulo é composto por exercícios práticos que ajudam a fixar os conceitos aprendidos. Abaixo estão os exercícios já resolvidos em cada módulo:
 
@@ -131,11 +131,15 @@ Cada módulo é composto por exercícios práticos que ajudam a fixar os conceit
 
 ├── POO-Python
 
-│   ├── exercicio01.py
+│   ├── Exercicio01
+|   |     ├── exercicio01.py
 
-│   ├── exercicio02.py
+│   ├── Exercicio02
+|   |     ├── exercicio02.py
 
-│   ├── exercicio03.py
+│   ├── Exercicio03
+|   |     ├── ex03-BancoDelas.py
+|   |     ├── ex03-menu-iniciar.py
 
 
 
