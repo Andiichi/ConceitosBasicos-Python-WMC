@@ -134,20 +134,22 @@ Cada módulo é composto por exercícios práticos que ajudam a fixar os conceit
 
 │   ├── Exercicio01
 
-│    │   ├── exercicio01.py
-
+│    │   ├── exercicio01-Carro.py
 
 
 │   ├── Exercicio02
 
-│    │   ├── exercicio02.py
+│    │   ├── ex02-BancoDelas.py
+
+│    │   ├── ex02-menu-iniciar.py
 
 
 │   ├── Exercicio03
 
-│    │   ├── ex03-BancoDelas.py
+│    │   ├── exercicio03.py
 
-│    │   ├── ex03-menu-iniciar.py
+
+
 
 
 
