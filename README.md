@@ -11,7 +11,7 @@ O curso é dividido em cinco módulos principais, cada um cobrindo diferentes as
   - Variáveis e tipos de dados.
   - Operações matemáticas e de strings.
   - Operadores resto (%), incrementos (+=) e decrementos (-=)
-  - precedência e operadores relacionais
+  - precedência de operadores relacionais e operadores comparativos
   - str.format()
   
 - **Módulo 2** - [Tomada de Decisão e Estruturas de Repetição](https://github.com/Andiichi/Python-Basico-WMC/tree/master/02-Tomada-Decisao-Repeticao)
@@ -48,7 +48,7 @@ Cada módulo é composto por exercícios práticos que ajudam a fixar os conceit
 
 ### Módulo 1 - Conceitos Básicos de Python
 
-├── Conceitos-Basicos-Python
+├── 01-Conceitos-Basicos-Python
 
 │   ├── exercicio01.py
 
@@ -73,7 +73,7 @@ Cada módulo é composto por exercícios práticos que ajudam a fixar os conceit
 
 ### Módulo 2 - Tomada de Decisão e Estruturas de Repetição
 
-├── Tomada-Decisao-Repeticao
+├── 02-Tomada-Decisao-Repeticao
 
 │   ├── exercicio01.py
 
@@ -98,7 +98,7 @@ Cada módulo é composto por exercícios práticos que ajudam a fixar os conceit
 
 ### Módulo 3 - Listas, Tuplas e Dicionários
 
-├── Listas-Tuplas-Dict
+├── 03-Listas-Tuplas-Dict
 
 │   ├── exercicio01.py
 
@@ -114,7 +114,7 @@ Cada módulo é composto por exercícios práticos que ajudam a fixar os conceit
 
 ### Módulo 4 - Funções
 
-├── Funcoes
+├── 04-Funcoes
 
 │   ├── exercicio01.py
 
@@ -130,17 +130,22 @@ Cada módulo é composto por exercícios práticos que ajudam a fixar os conceit
 
 ### Módulo 5 - Orientação a Objetos
 
-├── POO-Python
+├── 05-POO
 
 │   ├── Exercicio01
+
 |   |     ├── exercicio01.py
 
 │   ├── Exercicio02
+
 |   |     ├── ex02-BancoDelas.py
+
 |   |     ├── ex02-menu-iniciar.py
 
 
+
 │   ├── Exercicio03
+
 |   |     ├── exercicio03.py
 
 
