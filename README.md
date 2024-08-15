@@ -6,7 +6,7 @@ Este repositório contém as soluções dos exercícios do curso **Python Básic
 
 O curso é dividido em cinco módulos principais, cada um cobrindo diferentes aspectos do Python. Abaixo, uma visão geral dos tópicos abordados:
 
-- **Módulo 1** - [Conceitos Básicos de Python]()
+- **Módulo 1** - [Conceitos Básicos de Python](https://github.com/Andiichi/Python-Basico-WMC/tree/master/01-Conceitos-Basicos-Python)
   - Introdução ao Python e sua sintaxe básica.
   - Variáveis e tipos de dados.
   - Operações matemáticas e de strings.
@@ -14,22 +14,22 @@ O curso é dividido em cinco módulos principais, cada um cobrindo diferentes as
   - recedência e operadores relacionais
   - str.format()
   
-- **Módulo 2** - [Tomada de Decisão e Estruturas de Repetição]()
+- **Módulo 2** - [Tomada de Decisão e Estruturas de Repetição](https://github.com/Andiichi/Python-Basico-WMC/tree/master/02-Tomada-Decisao-Repeticao)
   - Condicionais (`if`, `else`, `elif`).
   - Estruturas de repetição (`for`, `while`).
   
-- **Módulo 3** - [Listas, Tuplas e Dicionários]()
+- **Módulo 3** - [Listas, Tuplas e Dicionários](https://github.com/Andiichi/Python-Basico-WMC/tree/master/03-Listas-Tuplas-Dict)
   - Manipulação de listas, tuplas e dicionários.
   - Prática em listas e dicionários
   - Diferenças entre listas, tuplas e dicionários.
   
-- **Módulo 4** - [Funções]()
+- **Módulo 4** - [Funções](https://github.com/Andiichi/Python-Basico-WMC/tree/master/04-Funcoes)
   - Parâmetros e argumentos.
   - Leitura e manipulação em arquivos
   - Escopo de variáveis.
   - Tratamento de exceções
   
-- **Módulo 5** - [Orientação a Objetos]()
+- **Módulo 5** - [Orientação a Objetos](https://github.com/Andiichi/Python-Basico-WMC/tree/master/05-POO)
   - Conceitos básicos de orientação a objetos.
   - Módulos e namespaces.
   - Pacotes.
