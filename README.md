@@ -6,30 +6,30 @@ Este repositório contém as soluções dos exercícios do curso **Python Básic
 
 O curso é dividido em cinco módulos principais, cada um cobrindo diferentes aspectos do Python. Abaixo, uma visão geral dos tópicos abordados:
 
-- **Módulo 1** - [Conceitos Básicos de Python]()
+- **Módulo 1** - [Conceitos Básicos de Python](https://github.com/Andiichi/Python-Basico-WMC/tree/master/01-Conceitos-Basicos-Python)
   - Introdução ao Python e sua sintaxe básica.
   - Variáveis e tipos de dados.
   - Operações matemáticas e de strings.
   - Operadores resto (%), incrementos (+=) e decrementos (-=)
-  - recedência e operadores relacionais
+  - precedência de operadores relacionais e operadores comparativos
   - str.format()
   
-- **Módulo 2** - [Tomada de Decisão e Estruturas de Repetição]()
+- **Módulo 2** - [Tomada de Decisão e Estruturas de Repetição](https://github.com/Andiichi/Python-Basico-WMC/tree/master/02-Tomada-Decisao-Repeticao)
   - Condicionais (`if`, `else`, `elif`).
   - Estruturas de repetição (`for`, `while`).
   
-- **Módulo 3** - [Listas, Tuplas e Dicionários]()
+- **Módulo 3** - [Listas, Tuplas e Dicionários](https://github.com/Andiichi/Python-Basico-WMC/tree/master/03-Listas-Tuplas-Dict)
   - Manipulação de listas, tuplas e dicionários.
   - Prática em listas e dicionários
   - Diferenças entre listas, tuplas e dicionários.
   
-- **Módulo 4** - [Funções]()
+- **Módulo 4** - [Funções](https://github.com/Andiichi/Python-Basico-WMC/tree/master/04-Funcoes)
   - Parâmetros e argumentos.
   - Leitura e manipulação em arquivos
   - Escopo de variáveis.
   - Tratamento de exceções
   
-- **Módulo 5** - [Orientação a Objetos]()
+- **Módulo 5** - [Orientação a Objetos](https://github.com/Andiichi/Python-Basico-WMC/tree/master/05-POO)
   - Conceitos básicos de orientação a objetos.
   - Módulos e namespaces.
   - Pacotes.
@@ -39,39 +39,16 @@ O curso é dividido em cinco módulos principais, cada um cobrindo diferentes as
   - Classes abstratas e a biblioteca ABC
   - Tipagem pato (Duck typing)
   - Erros e exceções
-  - Debug no VS Code - lindando com Erros e excecões
+  - Debug no VS Code - lindando com Erros e exceções
     
 
-## 🗂 Estrutura das pastas dos modulos
+## 🗂 Estrutura das pastas dos módulos
 
 Cada módulo é composto por exercícios práticos que ajudam a fixar os conceitos aprendidos. Abaixo estão os exercícios já resolvidos em cada módulo:
 
 ### Módulo 1 - Conceitos Básicos de Python
 
-├── Conceitos-Basicos-Python
-
-│   ├── exercicio01.py
-
-│   ├── exercicio02.py
-
-│   ├── exercicio03.py
-
-│   ├── exercicio04.py
-
-│   ├── exercicio05.py
-
-│   ├── exercicio06.py
-
-│   ├── exercicio07.py
-
-│   ├── exercicio08.py
-
-│   ├── exercicio09.py
-
-
-### Módulo 2 - Tomada de Decisão e Estruturas de Repetição
-
-├── Tomada-Decisao-Repeticao
+├── 01-Conceitos-Basicos-Python
 
 │   ├── exercicio01.py
 
@@ -93,11 +70,35 @@ Cada módulo é composto por exercícios práticos que ajudam a fixar os conceit
 
 │   ├── exercicio10.py
 
-│   ├── exercicio11.py
+
+### Módulo 2 - Tomada de Decisão e Estruturas de Repetição
+
+├── 02-Tomada-Decisao-Repeticao
+
+│   ├── exercicio01.py
+
+│   ├── exercicio02.py
+
+│   ├── exercicio03.py
+
+│   ├── exercicio04.py
+
+│   ├── exercicio05.py
+
+│   ├── exercicio06.py
+
+│   ├── exercicio07.py
+
+│   ├── exercicio08.py
+
+│   ├── exercicio09.py
+
+│   ├── exercicio10.py
+
 
 ### Módulo 3 - Listas, Tuplas e Dicionários
 
-├── Listas-Tuplas-Dict
+├── 03-Listas-Tuplas-Dict
 
 │   ├── exercicio01.py
 
@@ -113,7 +114,7 @@ Cada módulo é composto por exercícios práticos que ajudam a fixar os conceit
 
 ### Módulo 4 - Funções
 
-├── Funcoes
+├── 04-Funcoes
 
 │   ├── exercicio01.py
 
@@ -129,13 +130,25 @@ Cada módulo é composto por exercícios práticos que ajudam a fixar os conceit
 
 ### Módulo 5 - Orientação a Objetos
 
-├── POO-Python
+├── 05-POO
 
-│   ├── exercicio01.py
+│   ├── Exercicio01
 
-│   ├── exercicio02.py
+|   |     ├── exercicio01.py
 
-│   ├── exercicio03.py
+│   ├── Exercicio02
+
+|   |     ├── ex02-BancoDelas.py
+
+|   |     ├── ex02-menu-iniciar.py
+
+
+
+│   ├── Exercicio03
+
+|   |     ├── exercicio03.py
+
+
 
 
 
@@ -154,8 +167,6 @@ Para rodar os exercícios em seu ambiente local, siga os passos abaixo:
 3. Execute o arquivo:
    ```bash
    python exercicio01.py
-
-
 
 ## 📝 Contribuições
   Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar ou adicionar novos exercícios e soluções.
