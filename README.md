@@ -133,14 +133,21 @@ Cada módulo é composto por exercícios práticos que ajudam a fixar os conceit
 ├── POO-Python
 
 │   ├── Exercicio01
-|   |     ├── exercicio01.py
+
+│    │   ├── exercicio01.py
+
+
 
 │   ├── Exercicio02
-|   |     ├── exercicio02.py
+
+│    │   ├── exercicio02.py
+
 
 │   ├── Exercicio03
-|   |     ├── ex03-BancoDelas.py
-|   |     ├── ex03-menu-iniciar.py
+
+│    │   ├── ex03-BancoDelas.py
+
+│    │   ├── ex03-menu-iniciar.py
 
 
 
@@ -159,8 +166,6 @@ Para rodar os exercícios em seu ambiente local, siga os passos abaixo:
 3. Execute o arquivo:
    ```bash
    python exercicio01.py
-
-
 
 ## 📝 Contribuições
   Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar ou adicionar novos exercícios e soluções.
