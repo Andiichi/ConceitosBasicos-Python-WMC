@@ -93,7 +93,6 @@ Cada módulo é composto por exercícios práticos que ajudam a fixar os conceit
 
 │   ├── exercicio10.py
 
-│   ├── exercicio11.py
 
 ### Módulo 3 - Listas, Tuplas e Dicionários
 
