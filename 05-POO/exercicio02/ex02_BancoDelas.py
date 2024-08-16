@@ -196,7 +196,7 @@ class ContaCorrente(Cliente):
                             break
                     
                     print('Valor sacado com sucesso!') 
-                    float(valor) = self.__saldo - novo_valor
+                    # float(valor) = self.__saldo - novo_valor
                     # novo_valor = valor - self.__saldo #<--
                     # self.cheque_especial -= novo_valor #<-- tirar essa linha caso nao passe da validacao acima
                     # self.__saldo = neg(novo_valor) #<-- para caso tenha cheque especial e tirar dele e deixar negativa o saldo
@@ -220,20 +220,3 @@ class ContaCorrente(Cliente):
         return (super().__str__() +
                 f'\nSaldo atual: R$ {self.saldo:.2f}') #faz a adição do print do saldo junto com os demais dados acima na classe conta corrente
 
-# Exemplo de uso:
-conta_corrente = ContaCorrente()
-conta_corrente.alterar_nome()
-conta_corrente.alterar_telefone()
-conta_corrente.alterar_renda_mensal() #ex. 2000
-conta_corrente.alterar_sexo()
-
-print()
-print(conta_corrente)
-print()
-# Realizando operações de depósito e saque
-conta_corrente.depositar(1000.0)
-# conta_corrente.sacar(1500.0)
-conta_corrente.sacar(1500.0)  # Testando saque além do saldo disponível
-
-print()
-print(conta_corrente)
